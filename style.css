@@ -1,5 +1,17 @@
 body{
-    background-image: url(oi.avif);
+    background-image: url(8682612.jpg);
     background-repeat: no-repeat;
    background-size: 100%;
+}
+
+.titulo {
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.animacao td{
+    border: 2px solid red;
+    width: 10%;
+
+
 }
